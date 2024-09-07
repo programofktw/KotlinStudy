@@ -32,3 +32,4 @@ replay_pid*
 # Test 폴더 생략 #
 */test/
 KotlinLang/.idea/
+KotlinLang/out/
