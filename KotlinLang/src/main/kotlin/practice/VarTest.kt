@@ -9,4 +9,6 @@ fun main(args: Array<String>){
     println(c);
     println(d);
     println(c+"1234");
+    println(c+a);
+    println(a.toString()+c);
 }
